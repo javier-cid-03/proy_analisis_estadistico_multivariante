@@ -4,17 +4,17 @@ Este proyecto aplica diversas técnicas del **análisis estadístico multivarian
 
 ## 📂 Contenido del proyecto
 
-- 📄 `proyecto.pdf`: Informe con el análisis completo, gráficos y resultados.
-- 📄 `proyecto.qmd`: Documento fuente en Quarto (RMarkdown).
-- 📊 Gráficos multivariantes (ACP, clústeres, biplots, etc.).
+- `proyecto.pdf`: Informe con el análisis completo, gráficos y resultados.
+- `proyecto.qmd`: Documento fuente en Quarto (RMarkdown).
+- Gráficos multivariantes (PCA, clústeres, etc.).
+- Datos usados en formato .csv.
 
 ## 🧪 Técnicas aplicadas
 
-- Análisis de Componentes Principales (ACP)
-- Análisis de Correspondencias
+- Análisis de Componentes Principales (PCA)
+- Regresión lineal, multiple y logística
 - Análisis Discriminante
 - Análisis de Clústeres
-- Escalamiento Multidimensional (MDS)
 
 ## 🛠️ Herramientas utilizadas
 
@@ -25,12 +25,12 @@ Este proyecto aplica diversas técnicas del **análisis estadístico multivarian
 ## 📎 Notas
 
 - Este repositorio **no contiene todo el código fuente** por motivos de protección académica.
-- Los resultados, gráficas e interpretaciones sí están disponibles en el informe PDF.
+- Es simplemente una muestra a modo ilustrativo.
 
 ## 🧑‍💻 Autor
 
 Javier García Fernández  
-Estudiante del Grado en Ciencia e Ingeniería de Datos
+Estudiante del Grado en Ciencia e Ingeniería de Datos de la Universidad de Murcia.
 
 ## 🛡️ Licencia
 
