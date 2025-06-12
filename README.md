@@ -1,4 +1,4 @@
-# proy_analisis_estadistico_multivariante
+# Proyecto Análisis Estadístico Multivariante
 
 Este proyecto aplica diversas técnicas del **análisis estadístico multivariante** usando el lenguaje **R**. Se trata de un trabajo académico orientado al análisis exploratorio y modelado de datos con múltiples variables, mediante herramientas estadísticas modernas.
 
