@@ -30,7 +30,7 @@ Este proyecto aplica diversas técnicas del **análisis estadístico multivarian
 ## 🧑‍💻 Autor
 
 Javier García Fernández  
-Estudiante del Grado en Ciencia e Ingeniería de Datos de la Universidad de Murcia.
+Grado en Ciencia e Ingeniería de Datos
 
 ## 🛡️ Licencia
 
